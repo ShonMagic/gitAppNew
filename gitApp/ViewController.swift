@@ -11,9 +11,22 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
+        
+        //Code1
+        /*
+        
+        
+        
+         code
+         code
+         code...
+         
+         */
+     
     }
 
 
 }
-
+         

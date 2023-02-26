@@ -12,8 +12,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        
         //Code1
         /*
         
@@ -36,6 +34,8 @@ class ViewController: UIViewController {
          
          */
      // AppStore1
+        
+     // fix bug
         
     }
 

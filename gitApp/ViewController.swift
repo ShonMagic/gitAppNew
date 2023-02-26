@@ -32,8 +32,37 @@ class ViewController: UIViewController {
          code2 new
          code2...
          
+         */     // все проверили и  загрузили в AppStore ( ver1)
+        
+        
+    
+    
+        //Code3
+        /*
+        
+        
+        
+         code3
+         code3
+         code...
+         
          */
-     // AppStore1
+        
+        
+        
+            //Code4
+            /*
+            
+            
+            
+             code4
+             code4
+             code...
+             
+             */
+        
+        
+        
         
      // fix bug
         

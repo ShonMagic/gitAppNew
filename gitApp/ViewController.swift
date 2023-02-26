@@ -67,8 +67,9 @@ class ViewController: UIViewController {
      // fix bug
      
         // AppStore2
-        // soome new 
-        
+        // soome new
+        // soome new3455
+
         
     }
 
